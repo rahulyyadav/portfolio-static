@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+
+Sitemap: https://rahul-yadav.com.np/sitemap.xml
